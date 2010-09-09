@@ -2,6 +2,14 @@
 
 Small ruby gem/plugin giving you the ability to retrieve easily the space available on your devices.
 
+== Usage
+
+* DeviseSpaceLeft.percent_used('/home')
+* DeviseSpaceLeft.percent_free('/dev/md2')
+* DeviseSpaceLeft.space_available('/dev/md2')
+* DeviseSpaceLeft.space_used('/dev/md2')
+* DeviseSpaceLeft.size('/dev/md2')
+
 Tested on Ubuntu and OsX
 
 Copyright (c) 2010 Guillaume Luccisano - g-mai|: guillaume.luccisano, released under the MIT license
