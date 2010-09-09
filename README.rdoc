@@ -1,0 +1,7 @@
+= DeviceSpaceLeft
+
+Small ruby gem/plugin giving you the ability to retrieve easily the space available on your devices.
+
+Tested on Ubuntu and OsX
+
+Copyright (c) 2010 Guillaume Luccisano - g-mai|: guillaume.luccisano, released under the MIT license
