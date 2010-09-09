@@ -4,7 +4,7 @@ private
   
   # Return the df linux command output
   def self.df
-    `df`
+    `df -h`
   end
 
   def self.parse_df_size(size)
